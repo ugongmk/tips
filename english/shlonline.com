@@ -7,6 +7,8 @@ ebs 매일매일 영어소원
 app 
 ted me 
 
+http://yaraba.tistory.com/395
+
 http://www.ebse.co.kr/ebs/flz.AlcLessonList.laf?courseId=ER2009M0EBR01ZZ&mid=33&targetRow=301&rowsOfPage=100#
 http://seoulrain.net/2016/02/28/myenglishstudy/
 http://www.manythings.org/lar/
