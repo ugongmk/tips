@@ -5,6 +5,8 @@ http://www.rd.com
 ebs 매일매일 영어소원
 영어 낭독 훈련 
 http://seoulrain.net/2016/02/28/myenglishstudy/
+http://www.manythings.org/lar/
+
 
 
 
