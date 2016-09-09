@@ -1,0 +1,2 @@
+Silent mode
+7z x XXX.7z > nul
