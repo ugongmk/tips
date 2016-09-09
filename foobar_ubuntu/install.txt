@@ -1,0 +1,29 @@
+Install Foobnix in Ubuntu:
+
+Press Ctrl+Alt+T on keyboard to open terminal. When it open, run below commands one by one:
+
+UPDATE: So far supports Ubuntu 15.04, Ubuntu 14.04, Ubuntu 12.04, Ubuntu 14.10. Old release also available in the PPA.
+
+For stable release (Support Ubuntu 13.04, 12.10, 12.04, 10.04):
+
+sudo add-apt-repository ppa:foobnix-team/foobnix-player
+sudo apt-get update
+sudo apt-get install foobnix
+
+For development release (Support Ubuntu 14.04, 13.10, 13.04, 12.04):
+
+sudo apt-get remove foobnix
+sudo add-apt-repository ppa:popsul1993/ppa
+sudo apt-get update
+sudo apt-get install foobnix
+
+To install from source:
+
+sudo python setup.py install
+# or
+sudo make install
+# or
+./install
+
+https://github.com/foobnix/foobnix
+
