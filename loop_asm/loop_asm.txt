@@ -3,3 +3,11 @@ volatile int x=0; while(!x);
 
 In Linux gcc,
 __asm__ volatile("b .");
+
+{
+		dump_stack();
+		WARN_ON(0);
+		__asm__ volatile("b .");
+		
+}
+
