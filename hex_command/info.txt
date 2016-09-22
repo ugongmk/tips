@@ -1,0 +1,6 @@
+$> printf '%x\n' 123
+xx
+
+$> perl -e 'printf ("%x\n", 123)'
+xx
+

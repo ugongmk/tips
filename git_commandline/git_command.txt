@@ -3,4 +3,6 @@ $ git commit -m "First commit"
 $ git commit -am "Second commit"
 $ git push origin master
 $ git show 
-$ git remote -v // show git url
+$ git remote -v # show git url
+$ git pull # update recently source
+ 
