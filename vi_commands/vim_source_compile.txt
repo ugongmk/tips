@@ -1,0 +1,16 @@
+Install Vim 8.0 Using Git
+
+Run the following commands in Terminal to install Vim on Ubuntu using Git:
+
+sudo apt remove vim
+
+sudo apt install git
+git clone https://github.com/vim/vim.git
+cd vim
+./configure
+sudo apt install ncurses-dev
+sudo yum install ncurses-devel
+make
+sudo make install
+
+
