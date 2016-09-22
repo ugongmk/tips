@@ -2,7 +2,9 @@ $ git add .
 $ git commit -m "First commit"
 $ git commit -am "Second commit"
 $ git push origin master
-$ git show 
+$ git show  # show diff or changed source 
 $ git remote -v # show git url
 $ git pull # update recently source
  
+$ git log --stat # show changed files
+
