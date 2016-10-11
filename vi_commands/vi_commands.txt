@@ -14,3 +14,8 @@ ctrl + \ + s : find symbol
 
 https://nolboo.kim/blog/2016/09/19/vim-visula-mode-block-export-import/
 
+block select and use tab
+--> v can select many blocks and '>' 
+--> '(number), > '
+
+
