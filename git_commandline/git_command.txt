@@ -10,4 +10,7 @@ $ git log --stat # show changed files
 $ git branch -a 
 $ git branch -r 
 
+$ git push --force
+
+
 
