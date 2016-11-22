@@ -13,4 +13,5 @@ $ git branch -r
 $ git push --force
 
 
+$ git log --full-diff -p
 
