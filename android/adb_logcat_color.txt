@@ -1,0 +1,3 @@
+http://jsharkey.org/blog/2009/04/22/modifying-the-android-logcat-stream-for-full-color-debugging/
+$ adb logcat | ~/coloredlogcat.py
+$ ~/coloredlogcat.py
