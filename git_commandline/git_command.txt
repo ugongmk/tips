@@ -26,3 +26,16 @@ $ git config format.pretty oneline
 ## add to conversation type 
 $ git add -i
 
+
+## add tabpage
+:tabnew
+:tabedit filename
+:tabclose
+
+move to next tab : gt
+move to previous tab : gT
+
+## rearrangement 
+1. gg (go to first of document)
+2. =G (from currnet line to last line work) 
+
