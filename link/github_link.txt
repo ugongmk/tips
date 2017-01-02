@@ -1,3 +1,6 @@
 
+
 https://github.com/StylingAndroid/ChristmasVoice
+https://medium.com/@pamartineza/how-to-set-up-a-continuous-integration-server-for-android-development-ubuntu-jenkins-sonarqube-43c1ed6b08d3#.6oiyqkveq
+
 
