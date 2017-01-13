@@ -227,6 +227,7 @@ http://home.ebs.co.kr/happybook/main
 http://home.ebs.co.kr/happyedu/main
 http://home.ebs.co.kr/hconcert/
 http://home.ebs.co.kr/world_music
+http://home.ebs.co.kr/bookcafe
 
 http://www.ebs.co.kr/onair?channelCodeString=radio
 
