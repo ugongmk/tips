@@ -177,6 +177,9 @@ http://www.podbbang.com/ch/1249
 // ParkSangMi's 낭독의발견
 http://www.podbbang.com/ch/9220
 
+// seochunsuk
+http://www.podbbang.com/ch/9438
+
 // 이승욱 공공상담소
 http://home.ebs.co.kr/poem/replay/8/view
 ?courseId=BP0PHPI0000000033&stepId=01BP0PHPI0000000033&prodId=9796&pageNo=1&lectId=10323376&lectNm=&bsktPchsYn=&prodDetlId=&oderProdClsCd=&prodFig=&vod=A&oderProdDetlClsCd=
