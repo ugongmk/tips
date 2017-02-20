@@ -128,6 +128,8 @@ http://osinside.net/osinside/osinside.htm
 
 https://brunch.co.kr/@bsjungblue
 
+// 승열과 케일린의 영미문학관
+http://www.podbbang.com/ch/10206
 
 http://www.podbbang.com/ch/8476
 http://www.podbbang.com/ch/5565?e=21538464
@@ -177,11 +179,17 @@ http://www.podbbang.com/ch/1249
 // ParkSangMi's 낭독의발견
 http://www.podbbang.com/ch/9220
 
+<<<<<<< HEAD
 // seochunsuk
 http://www.podbbang.com/ch/9438
 
 // CPBC radio
 http://www.cpbc.co.kr/home/cpbc_OnAirAudioPlayer.html
+=======
+// 푸티토리움
+http://www.podbbang.com/ch/6178
+
+>>>>>>> 8026e2101ff706f24e9b2ced65a787af4c173a37
 
 // 이승욱 공공상담소
 http://home.ebs.co.kr/poem/replay/8/view
