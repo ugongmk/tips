@@ -191,6 +191,10 @@ http://www.cpbc.co.kr/home/cpbc_OnAirAudioPlayer.html
 // 푸티토리움
 http://www.podbbang.com/ch/6178
 
+// jeju 
+http://www.podbbang.com/ch/10763?e=22223119
+
+
 >>>>>>> 8026e2101ff706f24e9b2ced65a787af4c173a37
 
 // 이승욱 공공상담소
