@@ -250,6 +250,10 @@ http://home.ebs.co.kr/happyedu/main
 http://home.ebs.co.kr/hconcert/
 http://home.ebs.co.kr/world_music
 http://home.ebs.co.kr/bookcafe
+http://home.ebs.co.kr/song/main
+http://home.ebs.co.kr/weekendculture/main
+
+
 
 http://www.ebs.co.kr/onair?channelCodeString=radio
 
