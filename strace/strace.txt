@@ -1,0 +1,1 @@
+strace -e open google-chrome > log.txt 2>&1
