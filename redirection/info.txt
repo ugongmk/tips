@@ -1,0 +1,2 @@
+
+ffprobe Top\ 7\ Korean\ Spring\ Songs\ \[\ 320kbps\ \]-1Nv43UPXvrE.mkv > 3.log 2>&1
