@@ -5,6 +5,9 @@ $ git push origin master
 $ git show  # show diff or changed source 
 $ git remote -v # show git url
 $ git pull # update recently source
+
+$ git pull <remote> branch 
+--> git pull origin branch_name
  
 $ git log --stat # show changed files
 $ git branch -a 
