@@ -42,3 +42,6 @@ move to previous tab : gT
 1. gg (go to first of document)
 2. =G (from currnet line to last line work) 
 
+git branch name
+--> git describe --all
+
