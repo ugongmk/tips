@@ -204,6 +204,12 @@ http://www.podbbang.com/ch/6094
 //sangmin 
 http://www.podbbang.com/ch/14295
 
+//cinema
+http://www.podbbang.com/ch/12520?e=
+
+
+
+
 >>>>>>> 8026e2101ff706f24e9b2ced65a787af4c173a37
 
 // 이승욱 공공상담소
