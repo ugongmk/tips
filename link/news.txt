@@ -393,3 +393,6 @@ http://www.radioonline.kr/won-eumbangsong-ladio-deudgi/
 
 iexplore http://able.kbs.co.kr/radio/2539248_43855.html?fname=3ra_list.html&ctitle=3R
 
+// 세계음악여행
+https://www.gugakfm.co.kr/gugak_web/radio/radio_program_board.jsp?sub_num=787&sub_id=215&idx=RD2016002484&state=view&bIdx=153152&pageNo=1
+
