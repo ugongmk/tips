@@ -396,3 +396,6 @@ iexplore http://able.kbs.co.kr/radio/2539248_43855.html?fname=3ra_list.html&ctit
 // 세계음악여행
 https://www.gugakfm.co.kr/gugak_web/radio/radio_program_board.jsp?sub_num=787&sub_id=215&idx=RD2016002484&state=view&bIdx=153152&pageNo=1
 
+// 세계음악기행 EBS
+http://home.ebs.co.kr/musictravel/board/2/502457/view/21217404?c.page=179&hmpMnuId=100&searchKeywordValue=0&bbsId=502457&fileClsCd=ANY&searchKeyword=&searchCondition=&searchConditionValue=0&
+
