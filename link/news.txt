@@ -1,4 +1,4 @@
-﻿runner's high
+runner's high
 
 http://developers.blognotions.com/
 http://www.embeddedworld.co.kr/
@@ -401,4 +401,10 @@ https://www.gugakfm.co.kr/gugak_web/radio/radio_program_board.jsp?sub_num=787&su
 
 // 세계음악기행 EBS
 http://home.ebs.co.kr/musictravel/board/2/502457/view/21217404?c.page=179&hmpMnuId=100&searchKeywordValue=0&bbsId=502457&fileClsCd=ANY&searchKeyword=&searchCondition=&searchConditionValue=0&
+
+
+// world travel ebs 
+http://www.ebse.co.kr/ebs/flz.AlcCourseInfo.laf?courseId=ER2013G0WTT01ZZ
+
+
 
