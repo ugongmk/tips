@@ -245,7 +245,9 @@ http://www.kbs.co.kr/radio/1fm/musicall
 http://www.kbs.co.kr/radio/1radio/
 http://www.kbs.co.kr/radio/1radio/culturegong
 //연속낭독
-http://www.kbs.co.kr/radio/3radio/speech/replay/2471890_51384.html  
+http://www.kbs.co.kr/radio/3radio/speech/replay/2471890_51384.html  
+//낭독으로 만나는 세상
+http://www.kbs.co.kr/radio/3radio/readworld/replay/2601133_130604.html
 
 잠못드는이유 김소영 (mbc)
 http://mini.imbc.com/v2/index.html?page=http://www.imbc.com/broad/radio/fm/sleeplessnight/v2/js/jarvis.pagedata.js&channel=0&service=podcast&program=1003107100000100000&src=http://www.imbc.com/broad/radio/fm/sleeplessnight/index.html&ref=http://www.google.co.kr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjSvbjgrpXNAhWkMaYKHe5UADkQFggaMAA&url=http%3A%2F%2Fwww.imbc.com%2Fbroad%2Fradio%2Ffm%2Fsleeplessnight%2Findex.html&usg=AFQjCNHLEm82l2_Rz1uQQcv8huehy-WPDA&sig2=3hxw8YY0kZQ9FH5uv-W5fg&bvm=bv.123664746,d.dGY&cad=rjt#http://www.imbc.com/broad/radio/fm/sleeplessnight/v2/js/jarvis.pagedata.js
