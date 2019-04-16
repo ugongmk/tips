@@ -1,0 +1,2 @@
+https://github.com/ugongmk/tips
+https://www.tumfatig.net/20180701/access-raspberry-pi-3-uart-console-on-macos/
