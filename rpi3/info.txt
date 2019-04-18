@@ -1,2 +1,5 @@
 https://github.com/ugongmk/tips
 https://www.tumfatig.net/20180701/access-raspberry-pi-3-uart-console-on-macos/
+
+ffmpeg -i input.mp4 "file.m4v"
+
