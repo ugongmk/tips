@@ -1,0 +1,3 @@
+http://wiki.postnix.us/installing_plan_9_on_qemu/
+http://man.cat-v.org/plan_9/
+

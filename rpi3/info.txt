@@ -5,5 +5,7 @@ ffmpeg -i input.mp4 "file.m4v"
 https://metebalci.com/blog/bare-metal-raspberry-pi-3b-jtag/
 http://henryomd.blogspot.com
 
+sudo diskutil unmountDisk /dev/disk4
+
 
 
