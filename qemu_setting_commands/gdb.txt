@@ -1,3 +1,6 @@
 https://zhuanlan.zhihu.com/p/53325393
 https://reverseengineering.stackexchange.com/questions/21295/reversing-elf-64-bit-lsb-pie-executable?noredirect=1
 
+python-gdb
+https://www.podoliaka.org/2016/04/10/debugging-cpython-gdb/
+
