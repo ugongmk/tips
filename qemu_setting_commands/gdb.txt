@@ -1,1 +1,3 @@
 https://zhuanlan.zhihu.com/p/53325393
+https://reverseengineering.stackexchange.com/questions/21295/reversing-elf-64-bit-lsb-pie-executable?noredirect=1
+
