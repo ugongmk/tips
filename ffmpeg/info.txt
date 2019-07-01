@@ -1,0 +1,1 @@
+ffmpeg -i 2019_ballet.mov -vcodec libx265 -crf 20 output.mp4

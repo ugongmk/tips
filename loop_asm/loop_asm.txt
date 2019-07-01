@@ -11,3 +11,11 @@ __asm__ volatile("b .");
 		
 }
 
+//x86
+//inline assembly
+main(){asm("L: jmp L");}
+
+//assembly
+jmp $
+
+
