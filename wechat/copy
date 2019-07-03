@@ -1,0 +1,1 @@
+find . -name *.mp4 -exec cp -rfpv {} ~/test/work_git/chinese/0703 \;
