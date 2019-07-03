@@ -1,2 +1,5 @@
 http://best.factj.com/gurugio/lowlevelprogramming-university
 https://www.reddit.com/r/osdev/
+
+https://devarea.com/building-embedded-linux-system-with-qemu/#.XRwEgC06__Q
+
