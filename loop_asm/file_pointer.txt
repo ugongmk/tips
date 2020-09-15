@@ -1,0 +1,2 @@
+printf("ftell: %ld\n", ftell(file));
+

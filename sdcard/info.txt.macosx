@@ -1,0 +1,2 @@
+sudo diskutil eraseDisk FAT32 "NO NAME" MBRFormat /dev/disk2
+
